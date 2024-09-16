@@ -1,0 +1,1 @@
+print('copy text efsdf')
